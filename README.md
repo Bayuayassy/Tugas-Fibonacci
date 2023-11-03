@@ -27,3 +27,10 @@ Tugas : Buatlah Method Program java Toast Number, dengan menghasilkan Bilangan F
 4.  Java class
 
 ![Cuplikan layar 2023-11-03 084031](https://github.com/Bayuayassy/Tugas-Fibonacci/assets/115678251/4c5e32f7-2219-4208-8796-3e5ed39d0cc5)
+
+5.  Tampilan 
+![Cuplikan layar 2023-11-03 085217](https://github.com/Bayuayassy/Tugas-Fibonacci/assets/115678251/85a9e8ec-df37-4cc9-ba60-7503cc5c6647)
+
+https://github.com/Bayuayassy/Tugas-Fibonacci/assets/115678251/b35dbca8-3f73-4bd4-81aa-71739d02a3fe
+
+
