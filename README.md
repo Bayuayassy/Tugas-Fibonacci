@@ -11,7 +11,7 @@ Dosen Pengampu : Donny Maulana, S.Kom.,M.M.S.I.
 
 Tugas : Buatlah Method Program java Toast Number, dengan menghasilkan Bilangan Fibonacci
 
-## Pengantar
+# Pengantar
 Assalamualaikum Wr. Wb <br>
 Disini, Saya akan mengerjakan tugas dari pemrograman mobile. Yaitu, membuat sebuah aplikasi menampilkan bilangan fibonacci.<br>
 Saya merubah sedikit tampilan dari yang diperintahkan, seperti menambah tombol reset, dan menambah tombol set limit. Langsung saja masuk ke codingnya.
