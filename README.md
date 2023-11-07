@@ -31,6 +31,9 @@ Tugas : Buatlah Method Program java Toast Number, dengan menghasilkan Bilangan F
 5.  Tampilan 
 ![Cuplikan layar 2023-11-03 085217](https://github.com/Bayuayassy/Tugas-Fibonacci/assets/115678251/85a9e8ec-df37-4cc9-ba60-7503cc5c6647)
 
-https://github.com/Bayuayassy/Tugas-Fibonacci/assets/115678251/b35dbca8-3f73-4bd4-81aa-71739d02a3fe
+https://github.com/Bayuayassy/Tugas-Fibonacci/assets/115678251/e9457b2e-4487-4a29-95f7-6e87b331d9c9
+
+
+
 
 
