@@ -16,6 +16,14 @@ Assalamualaikum Wr. Wb <br>
 Disini, Saya akan mengerjakan tugas dari pemrograman mobile. Yaitu, membuat sebuah aplikasi menampilkan bilangan fibonacci.<br>
 Saya merubah sedikit tampilan dari yang diperintahkan, seperti menambah tombol reset, dan menambah tombol set limit. Langsung saja masuk ke codingnya.
 
+# Layout
+Pada layout ini, Saya membuat tiga buah button, dan satu textview. 
+- Button yang pertama, berfungsi sebagai tombol “Set Limit” yang nantinya ketika di tekan akan muncul sebuah pop-up untuk masukan limit angka yang ingin kita hitung.
+- Button yang kedua, berfungsi sebagai tombol “count” yang nantinya ketika tombol ditekan akan menghitung bilangan fibonaccinya sesuai dengan yang kita limit. Juga berbeda warna pada setiap angka, agar tidak keliru.
+- Button yang ketiga, berfungsi sebagai tombol Reset yang nantinya angka akan kembali ke awal.
+- Dan yang terakhir Textview, yang berfungsi untuk menampilkan angka atau bilangan fibonaccinya yang tepat berada di tengah.
+Berikut ini coding lengkapnya :
+
 # Langkah-langkah
 
 1.  Activity_main.xml
