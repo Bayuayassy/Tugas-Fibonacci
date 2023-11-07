@@ -39,6 +39,8 @@ Saya merubah sedikit tampilan dari yang diperintahkan, seperti menambah tombol r
 
 ![Cuplikan layar 2023-11-07 082320](https://github.com/Bayuayassy/Tugas-Fibonacci/assets/115678251/12c89dc4-e5f5-46fd-8c52-e1bb2bb99153)
 
+https://github.com/Bayuayassy/Tugas-Fibonacci/assets/115678251/5fd65c05-04ac-41c2-bc30-4a79b0d87495
+
 
 
 
