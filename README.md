@@ -1,4 +1,4 @@
-# Tugas-Fibonacci
+# Tugas-Fibonacci UTS
 Nama : Bayu Maulana Ayassy
 
 NIM : 312210166
@@ -10,6 +10,13 @@ Mata Kuliah : Pemrograman Mobile 1
 Dosen Pengampu : Donny Maulana, S.Kom.,M.M.S.I.
 
 Tugas : Buatlah Method Program java Toast Number, dengan menghasilkan Bilangan Fibonacci
+
+## Pengantar
+Assalamualaikum Wr. Wb <br>
+Disini, Saya akan mengerjakan tugas dari pemrograman mobile. Yaitu, membuat sebuah aplikasi menampilkan bilangan fibonacci.<br>
+Saya merubah sedikit tampilan dari yang diperintahkan, seperti menambah tombol reset, dan menambah tombol set limit. Langsung saja masuk ke codingnya.
+
+# Langkah-langkah
 
 1.  Activity_main.xml
 
@@ -32,7 +39,6 @@ Tugas : Buatlah Method Program java Toast Number, dengan menghasilkan Bilangan F
 
 ![Cuplikan layar 2023-11-07 082320](https://github.com/Bayuayassy/Tugas-Fibonacci/assets/115678251/12c89dc4-e5f5-46fd-8c52-e1bb2bb99153)
 
-https://github.com/Bayuayassy/Tugas-Fibonacci/assets/115678251/e9457b2e-4487-4a29-95f7-6e87b331d9c9
 
 
 
